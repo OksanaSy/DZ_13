@@ -68,7 +68,9 @@ print(f"Синоніми для '{word}': {get_synonyms(word)}")
 print(f"Антоніми для '{word}': {get_antonyms(word)}")
 
 """
-/Users/sydorukoksana/newapp/.venv/bin/python /Users/sydorukoksana/newapp/DZ_13.py 
+
+https://drive.google.com/file/d/1TeqyXzPK8OQ09ljgEw0A-UoUo1iJih8B/view?usp=drive_link
+
 Accuracy: 0.8978
               precision    recall  f1-score   support
 
